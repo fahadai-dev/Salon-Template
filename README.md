@@ -1,16 +1,19 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ✂️ Professional Hair Styling & Salon Store
+A modern, responsive, and user-friendly web application for professional hair styling services and grooming products.
 
-Currently, two official plugins are available:
+# Live Link [https://salon-template-five.vercel.app/]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Key Features
+* **Service Booking:** Easy "Book Appointment" system with smooth animations.
+* **Product Catalog:** Browse styling products with detailed views.
+* **Fully Responsive:** Optimized for mobile, tablet, and desktop views.
+* **Interactive UI:** Hover effects, transitions, and professional imagery.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+* **Frontend:** React.js
+* **Styling:** Styled Components & CSS3
+* **Icons:** React Icons
+* **Data:** Custom API Integration
+  
+# DM: fahadintegration.ml@gmail.com
