@@ -1,0 +1,29 @@
+.hero{
+  height: 90vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+
+.hero .overlay{
+  text-align:center;
+}
+
+.btn{
+  margin-top:20px;
+  padding:12px 25px;
+  background: var(--primary-color);
+  color: #fff;
+  border-radius:6px;
+  text-decoration:none;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+  transition: all 0.3s ease-out;
+  display: inline-block;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+}
