@@ -5,6 +5,17 @@
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>salon-shop</title>
+    <script>
+  const observer = new IntersectionObserver(
+    entries => entries.forEach(e => {
+      if (e.isIntersecting) e.target.classList.add('revealed');
+    }),
+    { threshold: 0.15 }
+  );
+  document.querySelectorAll(
+    '.services, .card, .contact-header, .contact-info-section, .contact-map-section, .contact-card'
+  ).forEach(el => observer.observe(el));
+</script>
   </head>
   <body>
     <div id="root"></div>
