@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import "../styles/chatbot.css";
+import "../styles/Chatbot.css";
 
 const API_KEY = import.meta.env.VITE_ANTHROPIC_API_KEY;
 
