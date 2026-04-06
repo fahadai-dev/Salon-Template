@@ -7,6 +7,7 @@ import Footer from "./components/Footer";
 import FloatingButtons from "./components/FloatingButtons";
 import { useEffect } from "react";
 import { businessData } from "./data/business";
+import Chatbot from "./components/Chatbot";
 
 function App() {
   useEffect(() => {
@@ -33,6 +34,7 @@ function App() {
       <Contact />
       <Footer />
       <FloatingButtons />
+      <Chatbot />
     </>
   );
 }
